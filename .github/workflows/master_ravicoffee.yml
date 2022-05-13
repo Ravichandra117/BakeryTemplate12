@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ravicoffee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A35AC719DEE43BD972C6EEA20A901EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFE37E3B581349DF82F979F39AF00743 }}
           package: .
